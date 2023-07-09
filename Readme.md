@@ -265,8 +265,8 @@ left join yang_animal ya on ya.name = hm.name
 left join home_animals ha on ha.ID = hm.genus;
 ```
 
-13. Создать ![класс с Инкапсуляцией методов и наследованием по диаграмме](https://github.com/MoJIoToK/Control_work_on_the_specialization_block/tree/main/Model).
-14. Написать ![программу, имитирующую работу реестра домашних животных](https://github.com/MoJIoToK/Control_work_on_the_specialization_block).
+13. Создать [класс с Инкапсуляцией методов и наследованием по диаграмме](https://github.com/MoJIoToK/Control_work_on_the_specialization_block/tree/main/Model).
+14. Написать [программу, имитирующую работу реестра домашних животных](https://github.com/MoJIoToK/Control_work_on_the_specialization_block).
 
 В программе должен быть реализован следующий функционал:
 14.1. Завести новое животное
@@ -275,7 +275,7 @@ left join home_animals ha on ha.ID = hm.genus;
 14.4. обучить животное новым командам
 14.5. Реализовать навигацию по меню
 
-15. Создайте класс ![Счетчик](https://github.com/MoJIoToK/Control_work_on_the_specialization_block/blob/main/Controller/Counter.java), у которого есть метод add(), увеличивающий̆
+15. Создайте класс [Счетчик](https://github.com/MoJIoToK/Control_work_on_the_specialization_block/blob/main/Controller/Counter.java), у которого есть метод add(), увеличивающий̆
 значение внутренней̆int переменной̆на 1 при нажатие “Завести новое
 животное” Сделайте так, чтобы с объектом такого типа можно было работать в
 блоке try-with-resources. Нужно бросить исключение, если работа с объектом
